@@ -59,6 +59,7 @@
 	#header {
 		background-image: url("../../images/paranal.jpg");
 		background-repeat: no-repeat;
+		background-attachment: fixed;
 		background-size: cover;
 		-ms-behavior: url("assets/js/ie/backgroundsize.min.htc");
 	}
