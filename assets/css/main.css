@@ -2464,11 +2464,11 @@
 
 	#header {
 		background-color: #1f1815;
-		background-attachment: scroll,								fixed;
+		background-attachment: fixed,								fixed;
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
 		background-position: top left,							top left;
-		background-repeat: repeat,								no-repeat;
-		background-size: auto,								auto 100%;
+		background-repeat: none,								no-repeat;
+		background-size: cover,								auto 100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
@@ -2476,7 +2476,7 @@
 		position: fixed;
 		text-align: right;
 		top: 0;
-		width: 35%;
+		width: 40%;
 	}
 
 		#header strong, #header b {
