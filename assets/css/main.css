@@ -1602,7 +1602,7 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h2, h3, h4, h5, h6 {
+	h3, h4, h5, h6 {
 		color: #787878;
 		font-weight: 400;
 		line-height: 1em;
@@ -1617,11 +1617,14 @@
 	h1 {
 		font-size: 2em;
 		line-height: 1.5em;
+		color: #FFFFFF;
+		
 	}
 
 	h2 {
 		font-size: 1.5em;
 		line-height: 1.5em;
+		color: #D6DBDF;
 	}
 
 	h3 {
@@ -2483,9 +2486,12 @@
 			color: #ffffff;
 		}
 
-		#header h2, #header h3, #header h4, #header h5, #header h6 {
+		#header h3, #header h4, #header h5, #header h6 {
 			color: #ffffff;
 		}
+
+		#header h2 {
+			color: #D6DBDF;
 
 		#header h1 {
 			color: rgba(255, 255, 255, 0.5);
