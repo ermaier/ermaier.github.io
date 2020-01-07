@@ -2007,6 +2007,7 @@
 			opacity: 0.25;
 			position: absolute;
 			top: 0;
+			padding-top: 62.5%;
 			width: 100%;
 		}
 
@@ -2030,8 +2031,7 @@
 				line-height: 2.25em;
 				margin: -1.25em 0 0 -3em;
 				opacity: 0;
-				padding-right: 1.5em;
-				padding-top: 56.25%;
+				padding: 0 1.5em;
 				position: absolute;
 				text-align: center;
 				text-decoration: none;
