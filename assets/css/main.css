@@ -2469,7 +2469,7 @@
 
 	#header {
 		background-color: #1f1815;
-		background-attachment: fixed, fixed;
+		background-attachment: scroll,scroll;
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
 		background-position: top left, center;
 		background-repeat: no-repeat, no-repeat;
