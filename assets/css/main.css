@@ -2468,10 +2468,11 @@
 /* Header */
 
 	#header {
+		position: fixed;
 		background-color: #1f1815;
 		background-attachment: scroll,scroll;
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
-		background-position: top left, center;
+		background-position: center, center;
 		background-repeat: no-repeat, no-repeat;
 		background-size: cover,	auto 100%;
 		color: rgba(255, 255, 255, 0.5);
