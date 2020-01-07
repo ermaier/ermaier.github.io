@@ -2831,7 +2831,7 @@
 	}
 
 	body.is-touch #header {
-		background-attachment: fixed;
+		background-attachment: scroll;
 		background-size: auto, cover;
 	}
 
@@ -2917,7 +2917,7 @@
 		/* Header */
 
 			#header {
-				background-attachment: fixed;
+				background-attachment: scroll;
 				background-position: top left, center center;
 				background-size: auto,		cover;
 				left: auto;
