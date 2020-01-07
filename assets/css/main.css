@@ -2470,7 +2470,7 @@
 	#header {
 		position: fixed;
 		background-color: #1f1815;
-		background-attachment: scroll,scroll;
+		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
 		background-position: center, center;
 		background-repeat: no-repeat, no-repeat;
@@ -2831,7 +2831,7 @@
 	}
 
 	body.is-touch #header {
-		background-attachment: scroll;
+		background-attachment: fixed;
 		background-size: auto, cover;
 	}
 
@@ -2917,7 +2917,7 @@
 		/* Header */
 
 			#header {
-				background-attachment: scroll;
+				background-attachment: fixed;
 				background-position: top left, center center;
 				background-size: auto,		cover;
 				left: auto;
