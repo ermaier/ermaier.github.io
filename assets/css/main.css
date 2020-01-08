@@ -1725,7 +1725,7 @@
 	}
 
 	header h2 + p {
-		font-size: .9em;
+		font-size: .8em;
 		margin-top: -1em;
 		line-height: 1.5em;
 	}
@@ -2477,13 +2477,14 @@
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
 		background-position: left top;
 		background-repeat: no-repeat, no-repeat;
-		background-size: cover,33%;
+		background-size: cover,35%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: -50px;
 		padding: 8em 4em 0 0;
 		text-align: right;
 		top: 0;
+		margin
 		width: 35%;
 	}
 
@@ -2494,7 +2495,7 @@
 
 		#header h2 {
 			color: #e4e6ea;
-			font-size: .9em;
+			font-size: .8em;
 		}
 
 		#header h3, #header h4, #header h5, #header h6 {
