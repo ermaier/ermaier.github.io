@@ -4,12 +4,13 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/*
+//Load content of new page without reloading sidebar
+
 $(".actions").on('click', function() {
   var dest = $(this).attr('href');
   $("#top").load(dest);
 })
-*/
+
 (function($) {
 
 	var settings = {
