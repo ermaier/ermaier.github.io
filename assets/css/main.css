@@ -2339,7 +2339,7 @@
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0.35em;
-		border: solid 3px #cc9999;
+		border: solid 3px #efefef;
 		color: #787878 !important;
 		cursor: pointer;
 		display: inline-block;
@@ -2347,7 +2347,7 @@
 		height: 3.15em;
 		height: calc(2.75em + 6px);
 		line-height: 2.75em;
-		min-width: 10em;
+		min-width: 6em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
@@ -2360,6 +2360,7 @@
 		.button:hover {
 			border-color: #cc9999;
 			color: #cc9999 !important;
+			background-color: #b36666;
 		}
 
 		input[type="submit"]:active,
@@ -2415,14 +2416,7 @@
 		.button.special {
 			background-color: #cc9999;
 			border-color: #cc9999;
-			color: #ffffff !important;
-			max-width = 7em;
-			font-weight: 400;
-			height: 2.75em;
-			height: calc(2.35em + 6px);
-			line-height: 2em;
-			padding: 0 1em;
-			
+			color: #ffffff !important;			
 		}
 
 			input[type="submit"].special:hover,
