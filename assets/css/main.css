@@ -2475,7 +2475,7 @@
 		background-color: #1f1815;
 		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
-		background-position: left top;
+		background-position: -50px 0px;
 		background-repeat: no-repeat, no-repeat;
 		background-size: cover,35%;
 		color: rgba(255, 255, 255, 0.5);
@@ -2485,7 +2485,6 @@
 		text-align: right;
 		top: 0;
 		margin-right: -25px;
-		margin-left: -50px;
 		width: 35%;
 	}
 
