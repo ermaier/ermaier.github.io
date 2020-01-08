@@ -94,7 +94,7 @@
 		}
 
 		.container.\37 5\25 {
-			width: 720px;
+			width: 720px;ba
 		}
 
 		.container.\35 0\25 {
@@ -2475,7 +2475,7 @@
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
 		background-position: center, center;
 		background-repeat: no-repeat, no-repeat;
-		background-size: auto,33%;
+		background-size: cover cover,33% cover;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
