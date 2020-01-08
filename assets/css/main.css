@@ -2471,6 +2471,7 @@
 
 	#header {
 		position: fixed;
+		right: 50px;
 		background-color: #1f1815;
 		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
@@ -2506,14 +2507,14 @@
 		}
 
 		#header .image.avatar {
-			margin: 0 0 1em 0;
-			width: 6.25em;
+			margin: 0 0 50px 0;
+			width: 10em;
 		}
 
 /* Footer */
 
 	#footer {
-		bottom: -50px;
+		bottom: -100px;
 		left: 0;
 		right: 30px;
 		padding: 0 4em 6em 0;
