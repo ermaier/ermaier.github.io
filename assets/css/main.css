@@ -2009,6 +2009,7 @@
 			position: absolute;
 			top: 0;
 			width: 100%;
+			overflow: auto;
 		}
 
 		.image.thumb {
@@ -2037,7 +2038,7 @@
 				text-decoration: none;
 				top: 50%;
 				white-space: nowrap;
-				overflow: hidden;
+				overflow: auto;
 			}
 
 			.image.thumb:hover:after {
