@@ -2475,7 +2475,7 @@
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
 		background-position: center, center;
 		background-repeat: no-repeat, no-repeat;
-		background-size: cover,	auto 100%;
+		background-size: cover,	100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
