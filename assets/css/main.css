@@ -2513,8 +2513,9 @@
 /* Footer */
 
 	#footer {
-		bottom: 0;
+		bottom: -50px;
 		left: 0;
+		right: 30px;
 		padding: 0 4em 6em 0;
 		position: fixed;
 		text-align: right;
