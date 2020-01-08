@@ -2430,8 +2430,8 @@
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #3eb08f;
-				border-color: #3eb08f;
+				background-color: #b36666;
+				border-color: #b36666;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
