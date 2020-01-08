@@ -2484,12 +2484,12 @@
 		padding: 8em 4em 0 0;
 		text-align: right;
 		top: 0;
-		width: 33%;
+		width: 35%;
 	}
 
 		#header strong, #header b {
-			color: #d8b2b2;
-			font-weight: 800;
+			color: #cc9999;
+			font-weight: 400;
 		}
 
 		#header h2 {
@@ -2515,12 +2515,12 @@
 /* Footer */
 
 	#footer {
-		bottom: -100px;
-		left: 0;
+		bottom: -110px;
+		left: -50px;
 		padding: 0 4em 6em 0;
 		position: fixed;
 		text-align: right;
-		width: 33%;
+		width: 35%;
 	}
 
 		#footer .icons {
