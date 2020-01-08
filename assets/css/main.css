@@ -2416,11 +2416,11 @@
 			background-color: #cc9999;
 			border-color: #cc9999;
 			color: #ffffff !important;
-			min-width = 5em;
-			font-weight: 600;
+			max-width = 7em;
+			font-weight: 400;
 			height: 2.75em;
-			height: calc(2.75em + 6px);
-			line-height: 2.25em;
+			height: calc(2.35em + 6px);
+			line-height: 2em;
 			padding: 0 1em;
 			
 		}
