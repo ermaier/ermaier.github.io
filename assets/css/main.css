@@ -1725,7 +1725,7 @@
 	}
 
 	header h2 + p {
-		font-size: 1em;
+		font-size: .9em;
 		margin-top: -1em;
 		line-height: 1.5em;
 	}
@@ -2494,7 +2494,7 @@
 
 		#header h2 {
 			color: #e4e6ea;
-			font-size: 1em;
+			font-size: .9em;
 		}
 
 		#header h3, #header h4, #header h5, #header h6 {
