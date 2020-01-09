@@ -2474,7 +2474,7 @@
 
 /* Header */
 
-	+ {
+	.navbar {
 		position: fixed;
 		position: top left;
 		background-color: #000000;
