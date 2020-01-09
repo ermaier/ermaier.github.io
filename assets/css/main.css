@@ -2502,7 +2502,8 @@
 		text-decoration: none;
 }		
 	.active { 
-		background-color: #b36666;
+		background-color: #FFFFFF;
+		color: #b36666;
 }
 			  
 
