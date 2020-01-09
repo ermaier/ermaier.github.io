@@ -2482,6 +2482,7 @@
 		width: 33%;
 		position: 0px 0px;
 		padding-left: 25px;
+		z-index: 10;
 }
 	#navbar ul {
 		list-style-type: none;
