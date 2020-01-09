@@ -2474,28 +2474,36 @@
 
 /* Header */
 
-	#navbar{
-		position: absolute;
+	#navbar {
+		position: fixed;
 		background-color: #000000;
 		background-attachment: fixed;
 		height: 5%;
 		width: 33%;
 		position: top left;
 		z-index: 10;
+}
+	#navbar ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		background-color: #000000;
+	}
 	
-	#navbar a {
-		color: #FFFFFF;
-		display: inline-block;
+	#navbar li {
 		float: left;
-		width: 25%;
-		height: 100%;
+		}
+	
+	#navbar li a {
+		display: block;
+		color: #FFFFFF;
 		padding: 1em 1em 1em 1em;
 		text-align: center;
+		text-decoration: none;
 		
 }
-		#navbar a:hover {
+		#navbar li a:hover {
 			  color: #FFFFFF;
-			  border-right: 2px solid #FFFFFF;
 			  background-color: #b36666;
 			
 }
