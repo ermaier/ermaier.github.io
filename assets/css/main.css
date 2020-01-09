@@ -2972,13 +2972,13 @@
 			}
 		
 			.navbar a {
-				padding: .5em;
+				padding: .1em;
 				font-size: 15px;
 				margin-bottom: 10px;
 			}
 		/* Header */
 			#header h2 {
-				font-size: 1.75em;
+				font-size: 1.5em;
 			}
 			#header {
 				background-attachment: fixed;
@@ -3089,7 +3089,7 @@
 			}
 		
 			.navbar a {
-				padding: .5em;
+				padding: .1em;
 				font-size: 1em;
 				margin-bottom: 10px;
 			}
