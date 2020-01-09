@@ -24,6 +24,7 @@
 
 	body {
 		line-height: 1;
+		z-index: 11;
 	}
 
 	ol, ul {
@@ -2477,8 +2478,7 @@
 	#navbar {
 		position: fixed;
 		background-color: #000000;
-		background-attachment: fixed;
-		height: 5%;
+		height: 8%;
 		width: 33%;
 		position: 0px 0px;
 		padding-left: 25px;
@@ -2489,6 +2489,7 @@
 		margin: 0;
 		padding: 0;
 		background-color: #000000;
+		overflow: hidden;
 	}
 	
 	#navbar li {
@@ -2498,14 +2499,14 @@
 	#navbar li a {
 		display: block;
 		color: #FFFFFF;
-		padding: 0 5%;
+		padding: 14px 16px;
 		text-align: center;
 		text-decoration: none;
 		
 }
-		#navbar li a:hover {
-			  color: #FFFFFF;
-			  background-color: #b36666;
+	#navbar li a:hover {
+		color: #FFFFFF;
+	        background-color: #b36666;
 			
 }
 			  
