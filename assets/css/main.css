@@ -2480,7 +2480,8 @@
 		background-attachment: fixed;
 		height: 5%;
 		width: 33%;
-		position: 50 px 0px;
+		position: 0px 0px;
+		padding-left: 25px;
 }
 	#navbar ul {
 		list-style-type: none;
