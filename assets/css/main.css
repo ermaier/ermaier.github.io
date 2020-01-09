@@ -2478,11 +2478,17 @@
 		position: fixed;
 		background-color: #000000;
 		background-attachment: fixed;
-		height: 10%;
+		height: 5%;
 		width: 35%;
 		text-align: center;
 		position: top left;
 		padding: 1em 1em 1em 1em;
+		z-index: 10;
+	
+	#navbar a {
+		display: block;
+		width: 25%;
+		height: 100%;
 		
 }
 		#navbar a:hover {
