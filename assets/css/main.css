@@ -2339,14 +2339,14 @@
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: #cc9999;
 		opacity: .5;
-		border-radius: 0.35em;
-		border: solid 3px #efefef;
+		border-radius: 0.25em;
+		border: solid 1px #efefef;
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
 		height: 1.5em;
-		line-height: 1em;
+		line-height: .75em;
 		min-width: 5em;
 		padding: 0 .35em;
 		text-align: center;
