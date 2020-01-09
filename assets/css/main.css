@@ -2338,7 +2338,7 @@
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: #cc9999;
-		opacity: .5;
+		opacity: .8;
 		border-radius: 0.25em;
 		border: solid 1px #efefef;
 		color: #ffffff !important;
