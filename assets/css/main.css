@@ -2510,7 +2510,7 @@
 			  
 
 	#header {
-		position: relative;
+		position: fixed;
 		background-color: #1f1815;
 		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
