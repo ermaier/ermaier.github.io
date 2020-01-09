@@ -1580,7 +1580,7 @@
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
 		color: #cc9999;
-		text-decoration: none;
+		text-decoration: none !important;
 	}
 
 		a:hover {
@@ -2484,6 +2484,7 @@
 		width: 33%;
 		height: 6%;
 		margins: auto;
+		text-decoration: none;
 }
 	.navbar a {
 		float: left;
@@ -2499,6 +2500,7 @@
 	.navbar a:hover {
 		color: #FFFFFF !important;
 		background-color: #b36666;
+		text-decoration: none;
 }
 			  
 
