@@ -2475,11 +2475,11 @@
 /* Header */
 
 	#navbar{
-		position: fixed;
+		position: absolute;
 		background-color: #000000;
 		background-attachment: fixed;
 		height: 5%;
-		width: 35%;
+		width: 33%;
 		position: top left;
 		z-index: 10;
 	
@@ -2502,7 +2502,7 @@
 			  
 
 	#header {
-		position: fixed;
+		position: relative;
 		background-color: #1f1815;
 		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
