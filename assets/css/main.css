@@ -2475,7 +2475,7 @@
 /* Header */
 
 	#navbar {
-		position: fixed;
+		position: absolute;
 		background-color: #000000;
 		background-attachment: fixed;
 		height: 5%;
@@ -2496,6 +2496,8 @@
 	
 	#navbar li a {
 		display: block;
+		width: 25%;
+		height: 100%;
 		color: #FFFFFF;
 		padding: 1em 1em 1em 1em;
 		text-align: center;
