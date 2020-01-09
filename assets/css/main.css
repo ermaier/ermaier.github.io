@@ -2487,7 +2487,7 @@
 }
 	.navbar a {
 		float: left;
-		color: #FFFFFF !important;
+		color: #FFFFFF;
 		text-align: center;
 		padding: .5em;
 		text-decoration: none;
