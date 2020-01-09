@@ -2541,7 +2541,7 @@
 
 		#header h2 {
 			color: #f3f3f5;
-			font-size: 25px;
+			font-size: 20px;
 		}
 
 		#header h3, #header h4, #header h5, #header h6 {
@@ -2972,7 +2972,7 @@
 			}
 		
 			.navbar a {
-				padding: .2em;
+				padding: .3em;
 				font-size: 15px;
 			}
 		/* Header */
@@ -3086,7 +3086,7 @@
 			}
 		
 			.navbar a {
-				padding: .2em;
+				padding: .3em;
 				font-size: 15px;
 			}
 		/* Header */
