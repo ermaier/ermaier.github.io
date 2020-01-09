@@ -2478,6 +2478,7 @@
 	#navbar {
 		position: fixed;
 		background-color: #000000;
+		background-position: -25px 0;
 		height: 8%;
 		width: 33%;
 		position: -25px 0px;
