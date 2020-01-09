@@ -36,7 +36,6 @@
 
 	blockquote:before, blockquote:after, q:before, q:after {
 		content: '';
-		content: none;
 	}
 
 	table {
@@ -1714,6 +1713,8 @@
 
 /* Section/Article */
 
+	
+
 	section.special, article.special {
 		text-align: center;
 	}
@@ -2473,6 +2474,23 @@
 
 /* Header */
 
+	#navbar{
+		position: fixed;
+		background-color: #000000;
+		background-attachment: fixed;
+		height: 10%;
+		width: 35%;
+		text-align: center;
+		position: top left;
+		padding: 1em 1em 1em 1em;
+		
+}
+		#navbar a:hover {
+			  color: #FFFFFF;
+			  border-right: 2px solid #FFFFFF;
+			  background-color: #b36666;
+			  
+
 	#header {
 		position: fixed;
 		background-color: #1f1815;
@@ -2490,7 +2508,7 @@
 		margin-right: -25px;
 		width: 35%;
 	}
-
+			
 		#header strong, #header b {
 			color: #cc9999;
 			font-weight: 600;
