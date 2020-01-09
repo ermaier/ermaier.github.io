@@ -2487,9 +2487,9 @@
 }
 	.navbar a {
 		float: left;
-		color: #FFFFFF;
+		color: #FFFFFF !important;
 		text-align: center;
-		padding: 14px 16px;
+		padding: .5em;
 		text-decoration: none;
 		font-size: 17px;
 		width: 25%;
@@ -2499,11 +2499,6 @@
 	.navbar a:hover {
 		color: #FFFFFF !important;
 		background-color: #b36666;
-		padding: 14px 16px;
-		text-align: center;
-		text-decoration: none;
-		
-}
 }
 			  
 
