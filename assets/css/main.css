@@ -2476,6 +2476,8 @@
 /* Header */
 
 	.navbar {
+		position: relative;
+		position
 		background-color: #000000;
 		overflow: hidden;
 		z-index: 10;
@@ -2497,8 +2499,6 @@
 	.navbar a:hover {
 		color: #FFFFFF;
 		background-color: #b36666;
-		display: block;
-		color: #FFFFFF;
 		padding: 14px 16px;
 		text-align: center;
 		text-decoration: none;
