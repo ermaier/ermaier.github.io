@@ -2475,7 +2475,7 @@
 /* Header */
 
 	#navbar {
-		position: absolute;
+		position: fixed;
 		background-color: #000000;
 		background-attachment: fixed;
 		height: 5%;
