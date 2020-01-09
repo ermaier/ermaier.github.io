@@ -2475,7 +2475,7 @@
 /* Header */
 
 	.navbar {
-		position: absolute;
+		position: fixed;
 		position: top left;
 		background-color: #000000;
 		overflow: hidden;
