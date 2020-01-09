@@ -2487,6 +2487,7 @@
 	
 	#navbar a {
 		display: block;
+		float: left;
 		width: 25%;
 		height: 100%;
 		
