@@ -2341,14 +2341,14 @@
 		opacity: .5;
 		border-radius: 0.35em;
 		border: solid 3px #efefef;
-		color: #787878 !important;
+		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
-		height: 2em;
-		line-height: 1.6em;
+		height: 1.5em;
+		line-height: 1em;
 		min-width: 5em;
-		padding: 0 .75em;
+		padding: 0 .35em;
 		text-align: center;
 		text-decoration: none;
 		white-space: nowrap;
@@ -2361,6 +2361,7 @@
 			border-color: #cc9999;
 			color: #ffffff !important;
 			background-color: #b36666;
+			opacity: 1;
 		}
 
 		input[type="submit"]:active,
