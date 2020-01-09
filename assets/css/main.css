@@ -2475,28 +2475,27 @@
 
 /* Header */
 
-	#navbar {
-		position: fixed;
-		background-color: #000000;
-		background-position: -25px 0;
-		height: 8%;
-		width: 33%;
-		position: -25px 0px;
-		z-index: 10;
-}
-	#navbar ul {
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
+	.navbar {
 		background-color: #000000;
 		overflow: hidden;
-	}
-	
-	#navbar li {
+		z-index: 10;
+		width: 33%;
+		height: 6%;
+		margins: auto;
+}
+	.navbar a {
 		float: left;
-		}
+		color: #FFFFFF;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		font-size: 17px;
+	}
+
 	
-	#navbar li a {
+	.navbar a:hover {
+		color: #FFFFFF;
+		background-color: #b36666;
 		display: block;
 		color: #FFFFFF;
 		padding: 14px 16px;
@@ -2504,10 +2503,6 @@
 		text-decoration: none;
 		
 }
-	#navbar li a:hover {
-		color: #FFFFFF;
-	        background-color: #b36666;
-			
 }
 			  
 
