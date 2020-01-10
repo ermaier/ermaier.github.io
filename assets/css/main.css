@@ -2977,8 +2977,12 @@
 
 			}
 		/* Header */
+		
+			#header h1 {
+				font-size: 2em;
+		}
 			#header h2 {
-				font-size: 1.5em;
+				font-size: 1em;
 			}
 			#header {
 				background-attachment: fixed;
@@ -3054,7 +3058,7 @@
 			}
 
 			h2 {
-				font-size: 1.2em;
+				font-size: 1.0em;
 			}
 
 			h3 {
