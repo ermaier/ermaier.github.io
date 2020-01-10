@@ -2987,7 +2987,7 @@
 			#header {
 				background-attachment: fixed;
 				background-position: top left, center center;
-				background-size: cover,35%;
+				background-size: auto;
 				left: auto;
 				padding: 6em 4em;
 				position: relative;
@@ -3009,7 +3009,6 @@
 			#footer {
 				background-attachment: fixed;
 				background-color: #1f1815;
-				background-image: url("images/overlay.png"), url("../../images/paranal.jpg");
 				background-position: top left,						bottom center;
 				background-repeat: no-repeat,							no-repeat;
 				background-size: auto,							cover;
