@@ -2987,7 +2987,7 @@
 			#header {
 				background-attachment: fixed;
 				background-position: top left, center center;
-				background-size: auto,		cover;
+				background-size: cover,35%;
 				left: auto;
 				padding: 6em 4em;
 				position: relative;
