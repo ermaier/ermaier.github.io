@@ -2972,7 +2972,7 @@
 			}
 		
 			.navbar a {
-				padding: .2em;
+				padding: .2em .2em .3em .2em;
 				font-size: 15px;
 
 			}
@@ -3089,7 +3089,7 @@
 			}
 		
 			.navbar a {
-				padding: .2em;
+				padding: .2em .2em .3em .2em;
 				font-size: 1em;
 			}
 		/* Header */
