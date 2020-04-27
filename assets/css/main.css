@@ -2903,15 +2903,9 @@
 			}
 		
 		/* Navbar */
-			.navbar {
-				width: 100%;
-				height: 6%;
-
-			}
-
 			.navbar a {
 				padding: .2em .2em .3em .2em;
-				font-size: 12px;
+				font-size: 1em;
 
 			}
 
@@ -3112,7 +3106,7 @@
 
 			#header {
 				padding: 2.25em 1.5em;
-				background-size: auto;}
+				background-image: none;}
 
 
 				#header h1 {
@@ -3191,7 +3185,7 @@
 
 			#header {
 				padding: 4.5em 1.5em;
-				background-size: auto;
+				background-image: none;
 			}
 
 				#header h1 br {
