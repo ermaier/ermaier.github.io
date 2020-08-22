@@ -1580,7 +1580,7 @@
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		color: #c97d7d;
+		color: #b36666;
 		text-decoration: none !important;
 	}
 
@@ -2503,6 +2503,7 @@
 		padding: .5em;
 		text-decoration: none;
 		font-size: 20px;
+		height: auto;
 		width: 25%;
 	}
 
